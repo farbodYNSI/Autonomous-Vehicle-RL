@@ -7,10 +7,9 @@ This repository demonstrates the implementation of a reinforcement learning (RL)
 
 Below is a demo video showcasing the RL-trained agent's performance:
 
-<video width="800" controls>
-  <source src="RL.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/de004a60-82bb-4ff9-a836-b9d285cd3d88
+
 
 ## Features
 
