@@ -3,6 +3,8 @@ Reinforcement Learning for Autonomous Lane Following in Webots
 
 This repository demonstrates the implementation of a reinforcement learning (RL) environment for autonomous lane-following vehicles using Webots, OpenAI Gym, and Stable-Baselines3.
 
+[Watch the video](https://github.com/farbodYNSI/Autonomous-Vehicle-RL/blob/main/RL.mp4)
+
 ## Features
 
 - **Webots Integration**: Seamlessly integrates with the Webots robot simulator to provide a realistic environment for testing autonomous vehicles.
